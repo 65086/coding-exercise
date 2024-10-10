@@ -1,0 +1,8 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "javascript.validate.enable": false,
+    "eslint.workingDirectories": [
+        "./back",
+        "./front"
+      ]    
+}
